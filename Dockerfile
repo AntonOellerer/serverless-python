@@ -6,5 +6,4 @@ RUN apt-get update && \
 
 CMD ["python3"]
 
-RUN npm install -g serverless && \
-	npm install -g serverless-python-requirements
+RUN npm install -g serverless
