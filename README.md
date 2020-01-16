@@ -1,1 +1,1 @@
-# Dockerfile for Serverless Framework using Python 3.6
+# Dockerfile for Serverless Framework using Python 3.8
